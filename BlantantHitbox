@@ -1,5 +1,5 @@
  local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghoulmain/Allhitpartssilentaim/main/s9ware", true))()
-                            Aiming.TeamCheck(false)Aiming.ShowFOV = true
+                            Aiming.TeamCheck(false)Aiming.ShowFOV = false
                              Aiming.FOV = 17.2
 
                             local Workspace = game:GetService("Workspace")
